@@ -6,7 +6,7 @@
 
 <h1 align="center">Host Functions</h1>
 
-`permissions` defines the capabilities a sandboxed executable can have.
+`permissions` defines the capabilities a sandboxed execution environment can have.
 
 > If you are looking to get started with the Gigamono framework, check the [Gigamono repo](https://github.com/gigamono/gigamono).
 
