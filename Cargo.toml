@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    'cache',
+    'common',
+    'crypto',
+    'db',
+    'env',
+    'fs',
+    'p2p',
+]
